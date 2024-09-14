@@ -1,1 +1,1 @@
-pzr bomber exesini çalıştırın ve sonra keyfinize bakın 
+pzr.pzr uzantılı dosyanın uzantısını .exe olarak değiştirin ve pzr-sms-bomber.exe adlı uygulamayı çalıştırın 
